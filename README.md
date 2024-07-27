@@ -627,13 +627,13 @@ Limit 0 = unlimited
 ![](doc/9.png?raw=true)
 
 ```txt
-Up Views,10000,https://www.tiktok.com/@user/video/7218328781327584518,Zefoy
-Up Favorites,500,https://www.tiktok.com/@user/video/7218328781327584518,Zefoy
-Up Shares,1000,https://www.tiktok.com/@user/video/7218328781327584518,Zefoy
-Up Views,50000,https://www.tiktok.com/@user/video/7208664677738450181,Freer
-Up Favorites,5000,https://www.tiktok.com/@user/video/7208664677738450181,Freer
-Up Shares,2000,https://www.tiktok.com/@user/video/7208664677738450181,Zefoy
-Up Views,0,https://www.tiktok.com/@user/video/7194941936069922053,Freer
+Up Views,10000000,https://www.tiktok.com/@user/video/7218328781327584518,Zefoy
+Up Favorites,50000,https://www.tiktok.com/@user/video/7218328781327584518,Zefoy
+Up Shares,100000,https://www.tiktok.com/@user/video/7218328781327584518,Zefoy
+Up Views,500000,https://www.tiktok.com/@user/video/7208664677738450181,Freer
+Up Favorites,50000,https://www.tiktok.com/@user/video/7208664677738450181,Freer
+Up Shares,20000,https://www.tiktok.com/@user/video/7208664677738450181,Zefoy
+Up Views,1000000,https://www.tiktok.com/@user/video/7194941936069922053,Freer
 Up Favorites,15000,https://www.tiktok.com/@user/video/7194941936069922053,Zefoy
 Up Shares,9000,https://www.tiktok.com/@user/video/7194941936069922053,Zefoy
 ```
